@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    siriproxy-violet (1.0)
+      addressable
+      net-http-digest_auth
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.3.2)
+    net-http-digest_auth (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  siriproxy-violet!
